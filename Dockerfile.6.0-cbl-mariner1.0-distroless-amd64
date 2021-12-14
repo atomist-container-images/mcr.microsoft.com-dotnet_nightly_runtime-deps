@@ -1,5 +1,0 @@
-# Tags: 6.0-cbl-mariner1.0-distroless-amd64, 6.0.0-cbl-mariner1.0-distroless-amd64, 7.0-cbl-mariner1.0-distroless-amd64, 7.0.0-alpha.1-cbl-mariner1.0-distroless-amd64
-FROM mcr.microsoft.com/dotnet/nightly/runtime-deps:6.0-cbl-mariner1.0-distroless-amd64
-FROM mcr.microsoft.com/dotnet/nightly/runtime-deps:6.0.0-cbl-mariner1.0-distroless-amd64
-FROM mcr.microsoft.com/dotnet/nightly/runtime-deps:7.0-cbl-mariner1.0-distroless-amd64
-FROM mcr.microsoft.com/dotnet/nightly/runtime-deps:7.0.0-alpha.1-cbl-mariner1.0-distroless-amd64
